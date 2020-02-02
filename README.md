@@ -1,5 +1,5 @@
 ## Illumino Firewall Challenge
-#### The Code comprieses of a functionality by which the System can filter out the IP Addresses entering and leaveing the Machine. There are Certain Set of Pre-Determined rules by which the System makes the Call. This type of enhancement in a System helps to increase the Security of the System and also mitigates risks and notify about any kind of Cyber-Security Attacks.
+#### The Code comprieses of a functionality by which the System can filter out the IP Addresses entering and leaving the Machine. There are Certain Set of Pre-Determined rules by which the System makes the Call. This type of enhancement in a System helps to increase the Security of the System and also mitigates risks and notify about any kind of Cyber-Security Attacks.
 
 ## Files and their Purpose
 #### 1: Firewall.java: Consists Various IP-Addresses which are passed to the System and checks whether they should be allowed or blocked.
@@ -12,7 +12,7 @@
 
 ## Enhancements
 #### 1: Complexity: Compelxity of the Code is the most important aspect when it comes to Large Scale Software Implementation. I would have implemented a Data Structure in which instead of iterating through and checking each and every rule; a certain rule can be mapped to a single Object and then checking the Input with the Same would have increased the Code's Linear Time Complexity.
-#### 2: A better way of accepting Inputs in order to check for a large number of Datasets. This could have been done by automating the process of accepting IP-Address Inputs using Shell Scripting.
+#### 2: A better way of accepting Inputs in order to check for a large number of Datasets. This could have been done by automating the process of accepting IP-Address Inputs by running a Bash Script.
 
 ## I would like to provide my preferences according to the Ranking below:
 #### 1: Platform Team
