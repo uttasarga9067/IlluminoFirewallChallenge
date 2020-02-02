@@ -12,7 +12,7 @@
 
 ## Enhancements
 #### 1: Complexity: Compelxity of the Code is the most important aspect when it comes to Large Scale Software Implementation. I would have implemented a Data Structure in which instead of iterating through and checking each and every rule; a certain rule can be mapped to a single Object and then checking the Input with the Same would have increased the Code's Linear Time Complexity.
-#### 2: A better way of accepting Inputs in order to check for a large number of Datasets. This could have ben done by automating the process of accepting IP-Address Inputs using Shell Scripting.
+#### 2: A better way of accepting Inputs in order to check for a large number of Datasets. This could have been done by automating the process of accepting IP-Address Inputs using Shell Scripting.
 
 ## I would like to provide my preferences according to the Ranking below:
 #### 1: Platform Team
