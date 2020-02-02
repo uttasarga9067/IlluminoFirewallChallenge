@@ -1,3 +1,2 @@
 ## Illumino Firewall Challenge
-##### The Code comprieses of a functionality by which the System can filter out the IP Addresses entering and leaveing the Machine.
-##### There are Certain Set of Pre-Determined rules by which the System makes the Call.
+##### The Code comprieses of a functionality by which the System can filter out the IP Addresses entering and leaveing the Machine. There are Certain Set of Pre-Determined rules by which the System makes the Call. This type of enhancement in a System helps to increase the Security of the System and also mitigates risks and notify about any kind of Cyber-Security Attacks.
