@@ -35,10 +35,10 @@ public class Rule
     }
 
     @Override
-    public boolean equals(Object o) {
-        if (this == o) return true;
-        if (!(o instanceof Rule)) return false;
-        Rule rule = (Rule) o;
+    public boolean equals(Object obj) {
+        if (this == obj) return true;
+        if (!(obj instanceof Rule)) return false;
+        Rule rule = (Rule) obj;
         return  direction.equalsIgnoreCase(rule.direction) && protocol.equalsIgnoreCase(rule.protocol)
                 && port == rule.port && ipAddress == rule.ipAddress;
     }
